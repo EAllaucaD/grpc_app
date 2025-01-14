@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ### 1. Clone the Repository
 ```bash
-git clone
+git clone https://github.com/EAllaucaD/grpc_app.git
 ```
 ### 2. Commands
 
@@ -75,3 +75,7 @@ python client.py
 You can create a new team and delete a team by entering the ID.
 
 ## 🎨 Preview
+
+![image](https://github.com/user-attachments/assets/ccd8908f-fbd3-4952-99cb-f09f62f026e9)
+
+![image](https://github.com/user-attachments/assets/546de683-b56a-4b63-929f-57fb5ef53fbf)
